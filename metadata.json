@@ -1,0 +1,8 @@
+{
+  "name": "Job Matcher and Email Scheduler",
+  "description": "A customized dashboard and email scheduler for finding top frontend development roles matching stable, high-paying criteria, with live AI-powered search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
